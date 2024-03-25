@@ -4,7 +4,7 @@
 - 🌱  I'm currently pursuing my Bachelor of Science in Computer Science
 
 - 📫 Reach me at **stipevujevic5@gmail.com**
-<p>&nbsp;</p>
+
 <h2 align="left">My Tech Stack:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -31,8 +31,8 @@
 </p>
 
 <h2 align="left">My Github Stats:</h2>
-<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=vujevicstipe&show_icons=true&locale=en&layout=compact" alt="vujevicstipe" /></p>
-<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=vujevicstipe&show_icons=true&locale=en" alt="vujevicstipe" /></p>
+<p><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=vujevicstipe&show_icons=true&locale=en&layout=compact" alt="vujevicstipe" /></p>
+<p>&nbsp;<img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=vujevicstipe&show_icons=true&locale=en" alt="vujevicstipe" /></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
