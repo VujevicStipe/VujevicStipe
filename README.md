@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stipe</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p>&nbsp;</p>
+
 - 🌱  I'm currently pursuing my Bachelor of Science in Computer Science
 
 - 📫 Reach me at **stipevujevic5@gmail.com**
@@ -31,8 +31,8 @@
 </p>
 
 <h2 align="left">My Github Stats:</h2>
-<p><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=vujevicstipe&show_icons=true&locale=en&layout=compact" alt="vujevicstipe" /></p>
-<p>&nbsp;<img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=vujevicstipe&show_icons=true&locale=en" alt="vujevicstipe" /></p>
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=vujevicstipe&show_icons=true&locale=en&layout=compact" alt="vujevicstipe" /></p>
+<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=vujevicstipe&show_icons=true&locale=en" alt="vujevicstipe" /></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
