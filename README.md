@@ -47,7 +47,7 @@
   &nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=vujevicstipe&show_icons=true&locale=en" alt="vujevicstipe" />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <h2 align="left">Connect</h2>
 <p align="left">
